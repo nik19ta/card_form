@@ -4,6 +4,10 @@
 
 Например:
 
-| Просто форма | 5213 24XX XXXX XXXX | 4276 81XX XXXX XXXX | 4392 43XX XXXX XXXX |
+| Просто форма | 5213 24XX XXXX XXXX | 4276 81XX XXXX XXXX | 5123 94XX XXXX XXXX |
 | :---: | :---: | :---: | :---: |
-| ![Без формы](static/2.png) | ![5213 24](static/1.png) | ![5213 24](static/3.png) |![5213 24](static/4.png) |
+| ![Без формы](static/2.png) | ![4276 81](static/1.png) | ![5213 24](static/3.png) |![5123 94](static/4.png) |
+
+| 2200 20XX XXXX XXXX | 5182 28XX XXXX XXXX | 6776 84XX XXXX XXXX | 5187 74XX XXXX XXXX |
+| :---: | :---: | :---: | :---: |
+| ![2200 20](static/5.png) | ![5182 28](static/6.png) | ![6776 84](static/7.png) |![5187 74](static/8.png) |
