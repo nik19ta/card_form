@@ -7,5 +7,3 @@
 | Просто форма | 5213 24XX XXXX XXXX | 4276 81XX XXXX XXXX | 4392 43XX XXXX XXXX |
 | :---: | :---: | :---: | :---: |
 | ![Без формы](static/2.png) | ![5213 24](static/1.png) | ![5213 24](static/3.png) |![5213 24](static/4.png) |
-
-![gif](static/1.gif)
